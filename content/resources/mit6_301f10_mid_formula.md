@@ -4,6 +4,8 @@ description: This resource contains information related to general equations.
 file: /courses/6-301-solid-state-circuits-fall-2010/35b1231089a65c766f7694cdfcb3759f_MIT6_301F10_mid_formula.pdf
 file_size: 59019
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
