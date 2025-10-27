@@ -23,7 +23,6 @@
     "website": "6-301-solid-state-circuits-fall-2010"
   },
   "course_title": "Solid-State Circuits",
-  "hide_download": true,
   "course_description": "6.301 is a course in analog circuit analysis and design. We cover the tools and methods necessary for the creative design of useful circuits using active devices. The class stresses insight and intuition, applied to the design of transistor circuits and the estimation of their performance. We concentrate on circuits using the bipolar junction transistor, but the techniques that we study can be equally applied to circuits using JFETs, MOSFETs, MESFETs, future exotic devices, or even vacuum tubes.\n",
   "department_numbers": [
     "6"
@@ -34,7 +33,6 @@
     "content": "3bd90705-6848-e879-4cb9-6edfee36395e",
     "website": "6-301-solid-state-circuits-fall-2010"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Exams"
